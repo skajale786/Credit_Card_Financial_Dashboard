@@ -28,5 +28,5 @@ Challenges:
 1. Data Cleaning: Ensured the data was clean and free from duplicates and errors before importing into PostgreSQL.
 Solution: Used Python scripts to clean and preprocess the data before loading it into the database.
 
-2. Data Refresh: Ensured the Power BI dashboard data is up-to-date.
+3. Data Refresh: Ensured the Power BI dashboard data is up-to-date.
 Solution: Set up scheduled refresh in Power BI.
