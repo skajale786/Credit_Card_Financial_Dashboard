@@ -33,5 +33,7 @@ Solution: Set up scheduled refresh in Power BI.
 
 
 Contact: 
+
 https://www.linkedin.com/in/sahil-kajale-b95b36182/
+
 kajalesahil7@gmail.com
