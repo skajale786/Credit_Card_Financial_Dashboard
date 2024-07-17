@@ -30,3 +30,8 @@ Solution: Used Python scripts to clean and preprocess the data before loading it
 
 3. Data Refresh: Ensured the Power BI dashboard data is up-to-date.
 Solution: Set up scheduled refresh in Power BI.
+
+
+Contact: 
+https://www.linkedin.com/in/sahil-kajale-b95b36182/
+kajalesahil7@gmail.com
